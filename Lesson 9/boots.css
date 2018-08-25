@@ -1,0 +1,139 @@
+.container6{
+    background: url("./foto/fon.jpg");
+    background-size: cover;
+}
+/*#cartInfo{
+    background: url("./foto/corzina.jpg");
+    border-radius: 4px;
+    bottom: 6px;
+    font-size: 13px;
+    padding: 5px;
+    margin-left:  100px;
+}*/
+/*.nav-link{
+    margin: 30px;
+}
+.d-block{
+    margin-top: 110px;
+    width: 500px;
+    height: 400px;
+}*/
+/*второй экран*/
+/*.text1{
+    padding: 50px;
+}
+.carousel-inner{
+    margin-top: 10px;
+    margin-left: 650px;
+    width: 500px;
+    height: 400px;
+}
+.second{
+    background: url("./foto/second.jpg");
+    height: 600px;
+}
+.container1{
+ margin-top: -400px;
+ /*margin-left: 40px;
+}*/
+/*.screen1{
+   
+    height: 550px;
+    width: 100%;
+}*/
+/*Третий экран*/
+.text2{
+    text-align: center;
+    padding: 50px;
+    
+}
+.container3{
+    background: url("./foto/ff.jpg");
+    background-size: cover;
+    height: 700px;
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    justify-content: space-around;
+}
+
+/*Четвертый экран*/
+.container4{
+    background: url("./foto/fon2.jpg");
+    background-size: cover;
+}
+.text3{
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+.img{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: space-around;  
+}
+.card-header{
+    width: 400px;
+}
+.card-body{
+    width: 400px;
+}
+   
+/*Форма*/
+.container7{
+    margin-top:-300px;
+}
+.form-group{
+    width: 25%;
+    background: rgb(215, 244, 250);
+}
+input{
+    width: 40%;
+    height: 12%;
+    margin-left: 10px;
+    min-height: 25px;
+}
+#submit-button{
+    background: rgb(118, 220, 238);
+    width: 10%;
+    margin-left:10px;
+    margin-right:15%; 
+    height: 30px;
+}
+em{
+    color: red;
+}
+.form-group{
+   
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+#comment{
+    width: 300px;
+    height: 100px;
+}
+/*footer{
+   position:fixed; bottom:0;
+    display: block;
+    background: url("./foto/plitka.jpg");
+    background-size: cover;
+    height: 200px;
+}*/
+span{
+    font-size: 20px;
+    color: white;
+}
+
+.container5{
+    background: url("./foto/plitka.jpg");
+    background-size: cover;
+    height: 200px;
+}
+
+
